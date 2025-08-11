@@ -31,8 +31,7 @@ Some features:
   - With earlier versions of linux-gpib, either become root before running, or make the executable setuid root.
 
 ## Installation
-To install, just compile the file(s) according to the instructions given at the beginning of the k2000.c file, then copy the corresponding executable to any 
-location you desire (probably `/usr/local/bin` or `~/bin`). 
+To install, just compile the file(s) according to the instructions given at the beginning of the s7150*c file, then copy the corresponding executable to any location you desire (probably `/usr/local/bin` or `~/bin`). 
 
 Invoke it by [typing its name](README.md#synopsis). As the program is a command-line utility, it needs to be run in a terminal window. 
 
