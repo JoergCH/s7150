@@ -4,7 +4,7 @@
 s7150    - control the Solartron 7150 (and 7150-plus) Digital Multimeter using GPIB
 s7150duo - same as above but with two instruments simultaneously
 
-![2x S7150](img/s7150x2.jpg "My two S7150")
+![2x S7150](img/s7150double.jpg "My two S7150")
 
 ## Description
 's7150' is a program to access and control the Solartron 7150 Digital
