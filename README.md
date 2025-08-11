@@ -1,8 +1,9 @@
 # README to s7150 and s7150duo
 
 ## Name
-s7150    - control the Solartron 7150 (and 7150-plus) Digital Multimeter using GPIB
-s7150duo - same as above but with two instruments simultaneously
+**s7150** controls the Solartron 7150 (and 7150-plus) Digital Multimeter using GPIB.
+
+**s7150duo** same as above but with two instruments simultaneously :-)
 
 ![2x S7150](img/s7150double.jpg "My two S7150")
 
